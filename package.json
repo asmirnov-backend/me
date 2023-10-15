@@ -1,7 +1,7 @@
 {
-  "name": "ksenia_voronina",
+  "name": "smirnov-backend",
   "version": "0.1.0",
-  "homepage": "https://smirnov-backend.github.io/my",
+  "homepage": "https://asmirnov-backend.github.io",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.11.1",
