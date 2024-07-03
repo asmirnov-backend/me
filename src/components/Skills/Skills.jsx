@@ -51,11 +51,7 @@ export const Skills = () => {
           spacing={3}
         >
           <Grid item>
-            <LinearProgressWithLabel
-              value={100}
-              text="TypeScript"
-              colour="#FF0000"
-            />
+            <LinearProgressWithLabel value={70} text="Java" colour="#20B2AA" />
           </Grid>
           <Grid item>
             <LinearProgressWithLabel
@@ -63,9 +59,16 @@ export const Skills = () => {
               text="Python"
               colour="#aa7F44"
             />
+          <Grid item>
+            <LinearProgressWithLabel
+              value={100}
+              text="TypeScript"
+              colour="#FF1493"
+            />
+          </Grid>   
           </Grid>
           <Grid item>
-            <LinearProgressWithLabel value={70} text="AWS" colour="#FFFF00" />
+            <LinearProgressWithLabel value={50} text="AWS" colour="#FFFF00" />
           </Grid>
           <Grid item>
             <LinearProgressWithLabel
@@ -75,7 +78,7 @@ export const Skills = () => {
             />
           </Grid>
           <Grid item>
-            <LinearProgressWithLabel value={80} text="SQL" colour="#0000FF" />
+            <LinearProgressWithLabel value={70} text="SQL" colour="#0000FF" />
           </Grid>
           <Grid item>
             <LinearProgressWithLabel
@@ -85,7 +88,7 @@ export const Skills = () => {
             />
           </Grid>
           <Grid item>
-            <LinearProgressWithLabel value={90} text="Git" colour="#9400D3" />
+            <LinearProgressWithLabel value={80} text="Git" colour="#9400D3" />
           </Grid>
           <Grid item>
             <LinearProgressWithLabel value={60} text="Linux" colour="#2244aa" />
@@ -94,10 +97,7 @@ export const Skills = () => {
             <LinearProgressWithLabel value={40} text="React" colour="#2196f3" />
           </Grid>
           <Grid item>
-            <LinearProgressWithLabel value={65} text="UML" colour="#009688" />
-          </Grid>
-          <Grid item>
-            <LinearProgressWithLabel value={30} text="Deno" colour="#00bcd4" />
+            <LinearProgressWithLabel value={70} text="UML" colour="#009688" />
           </Grid>
           <Grid item>
             <LinearProgressWithLabel value={50} text="MUI" colour="#451c44" />

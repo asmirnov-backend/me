@@ -36,9 +36,7 @@ export const CareerPlan = () => {
           </TimelineSeparator>
           <TimelineContent>
             Написать научную статью на тему "Сравнение производительности
-            платформ node, bun, deno." . Создать личный бренд на работе и в
-            резюме. Поучаствовать в 3-ëх конференциях по моей специальности.
-            Найти ментора и начать с ним взаимодействовать. Изучить язык
+            платформ node, bun, deno." Поучаствовать в 3-ëх конференциях по моей специальности. Изучить язык
             программирования Java, написав на нëм проект.
           </TimelineContent>
         </TimelineItem>
@@ -51,9 +49,7 @@ export const CareerPlan = () => {
             <TimelineConnector />
           </TimelineSeparator>
           <TimelineContent>
-            Закончить ИТМО с красным дипломом. Прочитать 3 книги по управлению
-            командой. Поработать месяц frontend разработчиком, и месяц
-            аналитиком. Решить 50 задач по программированию на leetcode.
+            Закончить ИТМО с красным дипломом. Решить 50 задач по программированию на leetcode.
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>
@@ -65,8 +61,7 @@ export const CareerPlan = () => {
             <TimelineConnector />
           </TimelineSeparator>
           <TimelineContent>
-            Стать техническим лидером команды разработки. Успешно сдать проект,
-            в качестве технического лидера.
+            Стать сеньором бекендером.
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>
