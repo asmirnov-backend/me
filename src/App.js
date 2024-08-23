@@ -13,8 +13,8 @@ function App() {
         <Home />
         <PersonalQualities />
         <Skills />
-        <Projects />
-        <CareerPlan />
+        {/* <Projects />
+        <CareerPlan /> */}
       </main>
 
       <Footer />
