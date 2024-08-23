@@ -55,7 +55,7 @@ export const Skills = () => {
           </Grid>
           <Grid item>
             <LinearProgressWithLabel
-              value={70}
+              value={60}
               text="Python"
               colour="#aa7F44"
             />
@@ -68,7 +68,7 @@ export const Skills = () => {
             />
           </Grid>
           <Grid item>
-            <LinearProgressWithLabel value={50} text="AWS" colour="#FFFF00" />
+            <LinearProgressWithLabel value={80} text="Git" colour="#9400D3" />
           </Grid>
           <Grid item>
             <LinearProgressWithLabel value={70} text="SQL" colour="#0000FF" />
@@ -81,7 +81,7 @@ export const Skills = () => {
             />
           </Grid>
           <Grid item>
-            <LinearProgressWithLabel value={80} text="Git" colour="#9400D3" />
+            <LinearProgressWithLabel value={50} text="AWS" colour="#FFFF00" />
           </Grid>
           <Grid item>
             <LinearProgressWithLabel value={60} text="Linux" colour="#2244aa" />
@@ -93,7 +93,11 @@ export const Skills = () => {
             <LinearProgressWithLabel value={70} text="UML" colour="#009688" />
           </Grid>
           <Grid item>
-            <LinearProgressWithLabel value={50} text="MUI" colour="#451c44" />
+            <LinearProgressWithLabel
+              value={50}
+              text="Ansible"
+              colour="#451c44"
+            />
           </Grid>
           <Grid item>
             <LinearProgressWithLabel

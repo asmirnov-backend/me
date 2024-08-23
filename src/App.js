@@ -11,8 +11,8 @@ function App() {
       <canvas className="background"></canvas>
       <main>
         <Home />
-        <PersonalQualities />
         <Skills />
+        <PersonalQualities />
         {/* <Projects />
         <CareerPlan /> */}
       </main>
